@@ -1,0 +1,2 @@
+Execution time:    2365 ms
+Average steps:     155.272
